@@ -1,6 +1,6 @@
-93f8d119fbd2f748ada9ab846b90730f *DESCRIPTION
+5b028822654f6f234868c3c965ac8494 *DESCRIPTION
 fc182c59fee648179ac7750aea3c9d45 *NAMESPACE
-3db126b0615a565d0eb95c526524a929 *NEWS.md
+59f768c237b578ca2efe794f516a3e6d *NEWS.md
 670600260103d6e94c09cb3499ea790e *R/Psi2par.R
 8d8f8e8c806e0fd7466b0c94c102d593 *R/add1.mixmeta.R
 b1565fffb270cc839523c9e1a02d7b6b *R/bdiagMat.R
@@ -37,7 +37,7 @@ c57bfae5920e6d05214c254ce9ef7207 *R/igls.iter.R
 c64d88e2a1a9f327cdabb76084d95932 *R/inputcov.R
 539dd297f3a115fbda68035b50879beb *R/inputna.R
 a0907f712d4ea38b96a6ce3e1e446ad9 *R/logLik.mixmeta.R
-45c4d2d0268a2c323a6a32a8805856b5 *R/mixmeta.R
+be89d62328649cad2cace7ba42b33b03 *R/mixmeta.R
 79e4ef1408191617f7f4a1b312366577 *R/mixmeta.control.R
 de1ad5971f138cc81caa4afbea3fb92f *R/mixmeta.fit.R
 763aef70785278c61d0c62fe521d47c0 *R/mixmeta.fixed.R
@@ -90,7 +90,7 @@ d24f4806f5d02f9e57c804803aeb2cc7 *data/school.rda
 00aa2f3d448a9dadd53df55f0c1773b2 *data/smoking.rda
 9407176b076f844191be2def4afc86c1 *data/thrombolytic.rda
 1be98929a2344c3d7020e65a4c6aebb7 *inst/CITATION
-3db126b0615a565d0eb95c526524a929 *inst/NEWS
+59f768c237b578ca2efe794f516a3e6d *inst/NEWS
 30b0cafac0b9968ead3dbb1e04a42d99 *man/alcohol.Rd
 da74135376c3302aaa909fbdd79b1fa8 *man/bcg.Rd
 cb6c8a4bcf800f7035a4bd98dec2a427 *man/bdiagMat.Rd
@@ -98,9 +98,9 @@ cb6c8a4bcf800f7035a4bd98dec2a427 *man/bdiagMat.Rd
 2b832782e1fdd84648be29727cdab4cd *man/blup.Rd
 cb5366ef8e1e76d378b92f9aead7d7a0 *man/blup.mixmeta.Rd
 9944c89ac62a07f794ebe4e40058e245 *man/coef.mixmeta.Rd
-0bb63f9668d3b920d75903f3bf63f66a *man/dbs.Rd
+508ac8a507eb609218cf34dc76704d7b *man/dbs.Rd
 a940a4c8d92f7813ef308a1d35f754d6 *man/fibrinogen.Rd
-4c7233c1c89ac450bb3208f551cbb9d6 *man/gliomas.Rd
+6f18867516480b8c4578312cd5ea99ca *man/gliomas.Rd
 3256931640936303b3bfb72a1fc8daf7 *man/hsls.Rd
 3ad3671995ab26a87760d98cd1951ff0 *man/hyp.Rd
 f22cdc4d74a24efafecde92427451fce *man/inputcov.Rd
