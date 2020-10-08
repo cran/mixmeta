@@ -1,6 +1,6 @@
-fa72736da172adfd86abca08fb457a7c *DESCRIPTION
-fc182c59fee648179ac7750aea3c9d45 *NAMESPACE
-9472775be923dffc61d50e136f03a7ae *NEWS.md
+2c55d8153e2d4a40a03e77b0c5291b10 *DESCRIPTION
+f8da659439651af12511f7efe3b3e608 *NAMESPACE
+b3ab1da1b236bb17e94ea774bcfe0c44 *NEWS.md
 bc2380e3e48a8e2dfd9ca09724a05653 *R/Psi2par.R
 8d8f8e8c806e0fd7466b0c94c102d593 *R/add1.mixmeta.R
 b1565fffb270cc839523c9e1a02d7b6b *R/bdiagMat.R
@@ -10,12 +10,13 @@ a891b2645aac43e3c905fbb139de3166 *R/checkPD.R
 85d87b2ea6d05e3aad0dfb9662359988 *R/coef.mixmeta.R
 38a01407d6b9e844ed180c9d79dd3b2b *R/drop1.mixmeta.R
 50ba574de9153218329c0b64bd933db7 *R/dropList.R
-4cfc5335cce3dec923c967758f1a8fa4 *R/extractAIC.mixmeta.R
+7377f2970c32b8c0f3e05418362b8a43 *R/extractAIC.mixmeta.R
 5984b91eb6c73abe34ebe4b8de7f458e *R/fbtr.R
+1dae7466a284838f5efc3fbeb9fb2f2f *R/formula.mixmeta.R
 c46f41aee86047d493f7e0ea1cc2d05c *R/getBSCov.R
-bf64e877085b45d5893caf95d1e105aa *R/getContrXlev.R
-9d5718fd2b177454ae50674c46ef938b *R/getFixTerms.R
-e354b63bceb2967f741c18f19c58deea *R/getFullFormula.R
+86823328f576f25e31a4b7660d80b782 *R/getContrXlev.R
+51ccc3b7665f9f2a55dc5679893ba462 *R/getFixTerms.R
+e6d5b65d50a921872f6bc0fd7231323b *R/getFullFormula.R
 1c19da752109084364d2ec4f3d9bb70e *R/getGroups.R
 cab448d1f7b2144b1053733c2e992afd *R/getInitPsi.R
 b90ddc36723fb06ff64f49f07b6db1af *R/getList.R
@@ -37,7 +38,7 @@ c57bfae5920e6d05214c254ce9ef7207 *R/igls.iter.R
 c64d88e2a1a9f327cdabb76084d95932 *R/inputcov.R
 539dd297f3a115fbda68035b50879beb *R/inputna.R
 a0907f712d4ea38b96a6ce3e1e446ad9 *R/logLik.mixmeta.R
-be89d62328649cad2cace7ba42b33b03 *R/mixmeta.R
+8199b0eaf2cf600ca15ca9124f830197 *R/mixmeta.R
 79e4ef1408191617f7f4a1b312366577 *R/mixmeta.control.R
 de1ad5971f138cc81caa4afbea3fb92f *R/mixmeta.fit.R
 763aef70785278c61d0c62fe521d47c0 *R/mixmeta.fixed.R
@@ -72,7 +73,7 @@ a219d1c3c4a78c9f2b76d2933ef25a44 *R/rigls.iter.R
 17eede5b88945777bcfddcae944830f8 *R/simulate.mixmeta.R
 2280b974a68d7cef327de0df7a3d352f *R/sumlist.R
 9188c36ce1cb349cd3773fa8439f8dc7 *R/summary.mixmeta.R
-e42774059066526d0b9c82c959670c25 *R/terms.mixmeta.R
+6d212ba4b7c80652a5bcd944a7993393 *R/terms.mixmeta.R
 5d0cb6126e01296ccd6267f29a374c54 *R/vcov.mixmeta.R
 0855d9a493b81ce515a77ed702dfcfb2 *R/vechMat.R
 796a8a2e223cf9dfd35b177c81363eda *R/xpndMat.R
@@ -90,7 +91,7 @@ d24f4806f5d02f9e57c804803aeb2cc7 *data/school.rda
 00aa2f3d448a9dadd53df55f0c1773b2 *data/smoking.rda
 9407176b076f844191be2def4afc86c1 *data/thrombolytic.rda
 1be98929a2344c3d7020e65a4c6aebb7 *inst/CITATION
-9472775be923dffc61d50e136f03a7ae *inst/NEWS
+b3ab1da1b236bb17e94ea774bcfe0c44 *inst/NEWS
 30b0cafac0b9968ead3dbb1e04a42d99 *man/alcohol.Rd
 da74135376c3302aaa909fbdd79b1fa8 *man/bcg.Rd
 cb6c8a4bcf800f7035a4bd98dec2a427 *man/bdiagMat.Rd
@@ -108,7 +109,7 @@ a07735920080ef254a17839ea0f908f0 *man/inputna.Rd
 720e6ae868a933ed3ead640ea12bca22 *man/logLik.mixmeta.Rd
 a852495acb0501480a5d55c136a2e933 *man/mixmeta-package.Rd
 cedef42d4b50371c55f5ff680b29bc53 *man/mixmeta.Rd
-559aa2b28ee66e292ae663a5aea0e25b *man/mixmeta.control.Rd
+18c82c47e6cacaab7111ddd7e3df49fc *man/mixmeta.control.Rd
 111d4b82bcacec8fbce34bece04f217e *man/mixmeta.fixed.Rd
 6af1ba77d5b670cda5dd18a059588fee *man/mixmeta.ml.Rd
 84118daf99475a41fba146411ab600d4 *man/mixmeta.mm.Rd
