@@ -1,7 +1,7 @@
 Package: mixmeta
 Type: Package
-Version: 1.1.0
-Date: 2020-10-08
+Version: 1.1.1
+Date: 2021-03-18
 Title: An Extended Mixed-Effects Framework for Meta-Analysis
 Description: A collection of functions to perform various meta-analytical models
   through a unified mixed-effects framework, including standard univariate
@@ -22,6 +22,6 @@ URL: https://github.com/gasparrini/mixmeta,
 License: GPL (>= 2)
 LazyData: yes
 NeedsCompilation: no
-Packaged: 2020-10-08 00:47:49 UTC; anton
+Packaged: 2021-03-19 12:40:51 UTC; anton
 Repository: CRAN
-Date/Publication: 2020-10-08 10:10:06 UTC
+Date/Publication: 2021-03-20 20:40:08 UTC

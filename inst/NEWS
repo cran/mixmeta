@@ -1,5 +1,13 @@
 -----------------------------------
 
+### Changes in mixmeta 1.1.1 (18 Mar 2021)
+
+#### Minor changes
+
+  * Fix bug in getFixFormula().
+
+-----------------------------------
+
 ### Changes in mixmeta 1.1.0 (08 Oct 2020)
 
 #### Minor changes

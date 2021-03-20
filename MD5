@@ -1,6 +1,6 @@
-2c55d8153e2d4a40a03e77b0c5291b10 *DESCRIPTION
+7f31a307e4577a71a6f1deb9e87c8397 *DESCRIPTION
 f8da659439651af12511f7efe3b3e608 *NAMESPACE
-b3ab1da1b236bb17e94ea774bcfe0c44 *NEWS.md
+5bae4a56bd33f4cac0828aebbc9208b8 *NEWS.md
 bc2380e3e48a8e2dfd9ca09724a05653 *R/Psi2par.R
 8d8f8e8c806e0fd7466b0c94c102d593 *R/add1.mixmeta.R
 b1565fffb270cc839523c9e1a02d7b6b *R/bdiagMat.R
@@ -15,7 +15,7 @@ a891b2645aac43e3c905fbb139de3166 *R/checkPD.R
 1dae7466a284838f5efc3fbeb9fb2f2f *R/formula.mixmeta.R
 c46f41aee86047d493f7e0ea1cc2d05c *R/getBSCov.R
 86823328f576f25e31a4b7660d80b782 *R/getContrXlev.R
-51ccc3b7665f9f2a55dc5679893ba462 *R/getFixTerms.R
+61e855808b441c794e8163252d4cf5c3 *R/getFixTerms.R
 e6d5b65d50a921872f6bc0fd7231323b *R/getFullFormula.R
 1c19da752109084364d2ec4f3d9bb70e *R/getGroups.R
 cab448d1f7b2144b1053733c2e992afd *R/getInitPsi.R
@@ -91,7 +91,7 @@ d24f4806f5d02f9e57c804803aeb2cc7 *data/school.rda
 00aa2f3d448a9dadd53df55f0c1773b2 *data/smoking.rda
 9407176b076f844191be2def4afc86c1 *data/thrombolytic.rda
 1be98929a2344c3d7020e65a4c6aebb7 *inst/CITATION
-b3ab1da1b236bb17e94ea774bcfe0c44 *inst/NEWS
+5bae4a56bd33f4cac0828aebbc9208b8 *inst/NEWS
 30b0cafac0b9968ead3dbb1e04a42d99 *man/alcohol.Rd
 da74135376c3302aaa909fbdd79b1fa8 *man/bcg.Rd
 cb6c8a4bcf800f7035a4bd98dec2a427 *man/bdiagMat.Rd
