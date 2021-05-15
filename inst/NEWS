@@ -1,5 +1,16 @@
 -----------------------------------
 
+### Changes in mixmeta 1.1.2 (20 Mar 2021)
+
+#### Minor changes
+
+  * Fixed bug in summary.mixmeta(). This caused issues with the incoming R
+    version and raised a flag with R-devel.
+  * Fixed bug in getFixTerms().
+  * Update README.
+
+-----------------------------------
+
 ### Changes in mixmeta 1.1.1 (18 Mar 2021)
 
 #### Minor changes

@@ -1,6 +1,6 @@
-7f31a307e4577a71a6f1deb9e87c8397 *DESCRIPTION
+8f6449884e05045260c461f6f0dc0edc *DESCRIPTION
 f8da659439651af12511f7efe3b3e608 *NAMESPACE
-5bae4a56bd33f4cac0828aebbc9208b8 *NEWS.md
+4d28e44b17cb50a6b733158752495bcf *NEWS.md
 bc2380e3e48a8e2dfd9ca09724a05653 *R/Psi2par.R
 8d8f8e8c806e0fd7466b0c94c102d593 *R/add1.mixmeta.R
 b1565fffb270cc839523c9e1a02d7b6b *R/bdiagMat.R
@@ -72,12 +72,12 @@ a3447d32e37a6c42c6017e59306115bb *R/reml.rigls.R
 a219d1c3c4a78c9f2b76d2933ef25a44 *R/rigls.iter.R
 17eede5b88945777bcfddcae944830f8 *R/simulate.mixmeta.R
 2280b974a68d7cef327de0df7a3d352f *R/sumlist.R
-9188c36ce1cb349cd3773fa8439f8dc7 *R/summary.mixmeta.R
+99bde1703a9b3577da863e1e04d67d99 *R/summary.mixmeta.R
 6d212ba4b7c80652a5bcd944a7993393 *R/terms.mixmeta.R
 5d0cb6126e01296ccd6267f29a374c54 *R/vcov.mixmeta.R
 0855d9a493b81ce515a77ed702dfcfb2 *R/vechMat.R
 796a8a2e223cf9dfd35b177c81363eda *R/xpndMat.R
-e01bd94e9deca4509e430439c8fb8219 *README.md
+8b32497a5c03caf78afa2b1e604605db *README.md
 f6262bac6a59de140d0a70f8d1c8ae34 *data/alcohol.rda
 ffd90b17b6f731832d42967617717464 *data/bcg.rda
 14dddd5fa3ccb3498842f55d1f4064ec *data/berkey98.rda
@@ -90,8 +90,8 @@ e09f19d0e01590657d652a598a299b03 *data/hyp.rda
 d24f4806f5d02f9e57c804803aeb2cc7 *data/school.rda
 00aa2f3d448a9dadd53df55f0c1773b2 *data/smoking.rda
 9407176b076f844191be2def4afc86c1 *data/thrombolytic.rda
-1be98929a2344c3d7020e65a4c6aebb7 *inst/CITATION
-5bae4a56bd33f4cac0828aebbc9208b8 *inst/NEWS
+e0c83de111a3eee9e68447d79cdeabc5 *inst/CITATION
+4d28e44b17cb50a6b733158752495bcf *inst/NEWS
 30b0cafac0b9968ead3dbb1e04a42d99 *man/alcohol.Rd
 da74135376c3302aaa909fbdd79b1fa8 *man/bcg.Rd
 cb6c8a4bcf800f7035a4bd98dec2a427 *man/bdiagMat.Rd
