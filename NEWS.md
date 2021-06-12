@@ -1,6 +1,14 @@
 -----------------------------------
 
-### Changes in mixmeta 1.1.2 (20 Mar 2021)
+### Changes in mixmeta 1.1.3 (12 June 2021)
+
+#### Minor changes
+
+  * Fixed bug in coef.mixmeta() with format="matrix" (thanks to Pierre Masselot).
+
+-----------------------------------
+
+### Changes in mixmeta 1.1.2 (15 May 2021)
 
 #### Minor changes
 

@@ -1,13 +1,13 @@
-8f6449884e05045260c461f6f0dc0edc *DESCRIPTION
+dba47ef145912ba0adbea0d19998f1f7 *DESCRIPTION
 f8da659439651af12511f7efe3b3e608 *NAMESPACE
-4d28e44b17cb50a6b733158752495bcf *NEWS.md
+24ac07abb63f3554ffb12caf3a950cd4 *NEWS.md
 bc2380e3e48a8e2dfd9ca09724a05653 *R/Psi2par.R
 8d8f8e8c806e0fd7466b0c94c102d593 *R/add1.mixmeta.R
 b1565fffb270cc839523c9e1a02d7b6b *R/bdiagMat.R
 8ac139e485600effa364a78c1117232d *R/blup.R
 28c47defc6d5084519ffb44eae64b72b *R/blup.mixmeta.R
 a891b2645aac43e3c905fbb139de3166 *R/checkPD.R
-85d87b2ea6d05e3aad0dfb9662359988 *R/coef.mixmeta.R
+6e111c815be89027cdced2347452ad65 *R/coef.mixmeta.R
 38a01407d6b9e844ed180c9d79dd3b2b *R/drop1.mixmeta.R
 50ba574de9153218329c0b64bd933db7 *R/dropList.R
 7377f2970c32b8c0f3e05418362b8a43 *R/extractAIC.mixmeta.R
@@ -91,7 +91,7 @@ d24f4806f5d02f9e57c804803aeb2cc7 *data/school.rda
 00aa2f3d448a9dadd53df55f0c1773b2 *data/smoking.rda
 9407176b076f844191be2def4afc86c1 *data/thrombolytic.rda
 e0c83de111a3eee9e68447d79cdeabc5 *inst/CITATION
-4d28e44b17cb50a6b733158752495bcf *inst/NEWS
+24ac07abb63f3554ffb12caf3a950cd4 *inst/NEWS
 30b0cafac0b9968ead3dbb1e04a42d99 *man/alcohol.Rd
 da74135376c3302aaa909fbdd79b1fa8 *man/bcg.Rd
 cb6c8a4bcf800f7035a4bd98dec2a427 *man/bdiagMat.Rd
