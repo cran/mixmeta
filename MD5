@@ -1,6 +1,6 @@
-dba47ef145912ba0adbea0d19998f1f7 *DESCRIPTION
+252a04562ecfcff8f46e126d5611f072 *DESCRIPTION
 f8da659439651af12511f7efe3b3e608 *NAMESPACE
-24ac07abb63f3554ffb12caf3a950cd4 *NEWS.md
+141be7d4970d3f4fa988625353b97cea *NEWS.md
 bc2380e3e48a8e2dfd9ca09724a05653 *R/Psi2par.R
 8d8f8e8c806e0fd7466b0c94c102d593 *R/add1.mixmeta.R
 b1565fffb270cc839523c9e1a02d7b6b *R/bdiagMat.R
@@ -38,7 +38,7 @@ c57bfae5920e6d05214c254ce9ef7207 *R/igls.iter.R
 c64d88e2a1a9f327cdabb76084d95932 *R/inputcov.R
 539dd297f3a115fbda68035b50879beb *R/inputna.R
 a0907f712d4ea38b96a6ce3e1e446ad9 *R/logLik.mixmeta.R
-8199b0eaf2cf600ca15ca9124f830197 *R/mixmeta.R
+70e098266bf592b221c2dfb70efb5137 *R/mixmeta.R
 79e4ef1408191617f7f4a1b312366577 *R/mixmeta.control.R
 de1ad5971f138cc81caa4afbea3fb92f *R/mixmeta.fit.R
 763aef70785278c61d0c62fe521d47c0 *R/mixmeta.fixed.R
@@ -91,7 +91,7 @@ d24f4806f5d02f9e57c804803aeb2cc7 *data/school.rda
 00aa2f3d448a9dadd53df55f0c1773b2 *data/smoking.rda
 9407176b076f844191be2def4afc86c1 *data/thrombolytic.rda
 e0c83de111a3eee9e68447d79cdeabc5 *inst/CITATION
-24ac07abb63f3554ffb12caf3a950cd4 *inst/NEWS
+141be7d4970d3f4fa988625353b97cea *inst/NEWS
 30b0cafac0b9968ead3dbb1e04a42d99 *man/alcohol.Rd
 da74135376c3302aaa909fbdd79b1fa8 *man/bcg.Rd
 cb6c8a4bcf800f7035a4bd98dec2a427 *man/bdiagMat.Rd
